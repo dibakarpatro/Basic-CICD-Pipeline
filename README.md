@@ -46,8 +46,8 @@ terraform.tfstate    # Terraform state file tracking infrastructure resources
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Basic-CICD-Pipeline.git
-cd Basic-CICD-Pipeline
+git clone https://github.com/your-username/Python-Docker-K8S-Infra.git
+cd Python-Docker-K8S-Infra
 ```
 
 ### 2. Running Locally
